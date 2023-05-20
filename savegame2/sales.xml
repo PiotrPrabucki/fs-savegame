@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<sales>
+    <item timeLeft="2" isGenerated="true" xmlFilename="data/vehicles/masseyFerguson/series7720S/series7720S.xml" age="17" price="113741" damage="0.317738" wear="0.298496" operatingTime="59346.656250"/>
+    <item timeLeft="17" isGenerated="true" xmlFilename="data/vehicles/kinze/planter4900/planter4900.xml" age="34" price="90833" damage="0.525079" wear="0.520627" operatingTime="120451.125000"/>
+    <item timeLeft="14" isGenerated="true" xmlFilename="data/vehicles/newHolland/th742/th742.xml" age="39" price="49367" damage="0.552267" wear="0.351348" operatingTime="81105.835938"/>
+    <item timeLeft="13" isGenerated="true" xmlFilename="data/vehicles/caseIH/terraFlex3020/terraFlex3020.xml" age="33" price="14268" damage="0.573785" wear="0.815322" operatingTime="111124.906250"/>
+</sales>

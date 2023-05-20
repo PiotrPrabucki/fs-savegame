@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>Mój zapis gry</savegameName>
+        <creationDate>2023-05-07</creationDate>
+        <mapId>MapUS</mapId>
+        <mapTitle>Elmcreek</mapTitle>
+        <saveDateFormatted>20/05/2023</saveDateFormatted>
+        <saveDate>2023-05-20</saveDate>
+        <resetVehicles>false</resetVehicles>
+        <trafficEnabled>false</trafficEnabled>
+        <stopAndGoBraking>true</stopAndGoBraking>
+        <trailerFillLimit>false</trailerFillLimit>
+        <automaticMotorStartEnabled>true</automaticMotorStartEnabled>
+        <growthMode>2</growthMode>
+        <fixedSeasonalVisuals>5</fixedSeasonalVisuals>
+        <plannedDaysPerPeriod>1</plannedDaysPerPeriod>
+        <fruitDestruction>true</fruitDestruction>
+        <plowingRequiredEnabled>false</plowingRequiredEnabled>
+        <stonesEnabled>false</stonesEnabled>
+        <weedsEnabled>false</weedsEnabled>
+        <limeRequired>false</limeRequired>
+        <isSnowEnabled>false</isSnowEnabled>
+        <fuelUsage>2</fuelUsage>
+        <helperBuyFuel>false</helperBuyFuel>
+        <helperBuySeeds>false</helperBuySeeds>
+        <helperBuyFertilizer>false</helperBuyFertilizer>
+        <helperSlurrySource>1</helperSlurrySource>
+        <helperManureSource>1</helperManureSource>
+        <densityMapRevision>3</densityMapRevision>
+        <terrainTextureRevision>1</terrainTextureRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>2</splitShapesRevision>
+        <tipCollisionRevision>2</tipCollisionRevision>
+        <placementCollisionRevision>2</placementCollisionRevision>
+        <navigationCollisionRevision>2</navigationCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainTextureRevision>1</mapTerrainTextureRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>2</mapSplitShapesRevision>
+        <mapTipCollisionRevision>2</mapTipCollisionRevision>
+        <mapPlacementCollisionRevision>2</mapPlacementCollisionRevision>
+        <mapNavigationCollisionRevision>3</mapNavigationCollisionRevision>
+        <difficulty>3</difficulty>
+        <economicDifficulty>1</economicDifficulty>
+        <dirtInterval>3</dirtInterval>
+        <timeScale>0.500000</timeScale>
+        <autoSaveInterval>15.000000</autoSaveInterval>
+    </settings>
+    <guidedTour active="false" currentStepIndex="0" state=""/>
+    <map>
+        <foundHelpIcons>00000000000000000000</foundHelpIcons>
+    </map>
+    <statistics>
+        <money>57484</money>
+        <playTime>2306.458740</playTime>
+    </statistics>
+    <slotSystem slotUsage="1410"/>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <mod modName="FS22_Lizard_45143A" title="Lizard 45143A" version="1.0.0.0" required="false" fileHash="88b1b032036f32801ab51126f887d073"/>
+    <mod modName="FS22_FireSiren" title="Fire Siren" version="1.3.0.0" required="false" fileHash="d9c4c9a2f21e525259edcff877086976"/>
+    <mod modName="FS22_realDirtParticles" title="Prawdziwe Cząsteczki Brudu" version="1.0.4.0" required="false" fileHash="899517eb9d2f8c7a473373eff3b969c8"/>
+    <mod modName="FS22_TargetFillLevel" title="Target Fill Level" version="2.0.0.0" required="false" fileHash="0271a3bfa921481580857906abadda2a"/>
+    <mod modName="FS22_Claas_Krone_Baler_Pack_With_Lizard_R90" title="Pack Of Balers With Windrower" version="4.0.0.0" required="false" fileHash="909c6e7a26bf909b479d5642c02ed082"/>
+    <mod modName="FS22_Multifruit_Buying_Station" title="Multifruit Buying Station" version="1.0.3.1" required="false" fileHash="ad65d5ed578f2a2944155315a1241c76"/>
+    <mod modName="FS22_RollandPack" title="Rolland Pack" version="1.0.0.5" required="false" fileHash="43f341cdc9dd1e7a24c54e24503df9de"/>
+    <mod modName="FS22_PressureWasherHUD" title="Pressure Washer HUD" version="1.0.0.0" required="false" fileHash="9b83bc582e470c84dd46dcc821246f95"/>
+    <mod modName="FS22_TLX2020_Series" title="TLX 2020 Series" version="1.2.2.0" required="false" fileHash="126c700d509d2aec0c770c29a850cfca"/>
+    <mod modName="FS22_PickupsPack" title="Pickups Pack" version="1.0.0.0" required="false" fileHash="5d6fabb5c30f4d269800cd164570fbf5"/>
+    <mod modName="FS22_GrassMowing" title="Grass Mowing" version="1.0.0.0" required="false" fileHash="86c65fc6bc3823f465a5b3ce6f910adf"/>
+    <mod modName="FS22_BetterTimeScale" title="Better Time Scale" version="1.0.0.0" required="false" fileHash="e8b5a8d38328722a0bb6f91a634f7c50"/>
+    <mod modName="FS22_LizardLawnMower" title="Kosiarka Ręczna" version="1.0.1.0" required="false" fileHash="003ff08d93020fe192295d30459bf035"/>
+    <mod modName="FS22_mobileWorkshop" title="Mobilny Warsztat" version="1.1.0.0" required="false" fileHash="da7f2494915260a9a5696dfc4be89389"/>
+    <mod modName="FS22_LIZARD_P310_CONSOLE" title="LIZARD P310" version="1.2.0.0" required="false" fileHash="9e2c87df67cb5a5873ce0a06108a6e08"/>
+    <mod modName="FS22_BetterContracts" title="Better Contracts" version="1.2.6.2" required="false" fileHash="5b03eed0f3996c5264f6dfc3d9397c78"/>
+    <mod modName="FS22_PongePack" title="Ponge Pack" version="1.0.0.0" required="false" fileHash="fa4bf516e3255b074bf3773680330a7b"/>
+    <mod modName="FS22_JohnDeere_110_4x4" title="John Deere 110 4x4" version="1.0.0.0" required="false" fileHash="489ff2ae41447daa29ca327c8f5357ac"/>
+    <mod modName="FS22_BrushCutter" title="Brush Cutter" version="1.2.0.0" required="false" fileHash="24b23f0657f65c8044d31a8c10448244"/>
+    <mod modName="FS22_realDirtColorTracks" title="Real Dirt Color Tracks" version="1.0.0.0" required="false" fileHash="fac7731901e2f4168149cd25d0aa2729"/>
+    <mod modName="FS22_UniversalAutoload" title="Universalne Autoładowanie" version="1.4.0.0" required="false" fileHash="80d92634dc1ffef52e0281b36c1dda21"/>
+    <mod modName="FS22_realDirtColor" title="Real Dirt Color" version="1.2.7.0" required="false" fileHash="6c4ed813b20b2596be0df32d300c6ace"/>
+    <mod modName="FS22_JohnDeere56" title="John Deere 56" version="1.0.0.0" required="false" fileHash="65ea30f31e624e577eb46aaa3c5f6a5c"/>
+    <mod modName="FS22_mudSystem" title="System Błotny" version="1.0.0.0" required="false" fileHash="416d76449b3be4f1b464da2bf48dafeb"/>
+    <mod modName="FS22_interactiveControl" title="Interactive Control" version="1.1.1.0" required="false" fileHash="bf9b85592e6764f66fb36b8f8c062f76"/>
+    <mod modName="FS22_LelyAP730" title="Lely AP730" version="1.0.0.0" required="false" fileHash="cc6ef8ee5dd46f6bb082e8b50c79f07d"/>
+    <mod modName="FS22_DustyLandsExtension" title="Dusty Lands Extension" version="1.0.0.0" required="false" fileHash="5b2ae1c8805c19fa88c9a489d11f5d33"/>
+    <mod modName="FS22_additionalFieldInfo" title="Additional Field Info" version="1.0.2.1" required="false" fileHash="90327d4d193dcc64e7824eadf365cea3"/>
+    <mod modName="FS22_realDirtFix" title="Naprawiono Brud" version="1.0.0.0" required="false" fileHash="2dd8158aafdfde86fe2d552c2d46f2df"/>
+    <mod modName="FS22_DeutzSeries9" title="Deutz-Fahr Series 9" version="2.0.0.0" required="false" fileHash="d70f42bfd62cdb4a5fb7d91217ad0772"/>
+    <mod modName="FS22_exhaustExtension" title="Exhaust Extension" version="1.0.0.1" required="false" fileHash="2db8ed2123884d31baf3a9cb441e9846"/>
+    <mod modName="FS22_claasDiscoPack" title="Claas DISCO Pack" version="1.0.0.1" required="false" fileHash="0f39c4a24c0d7258a11ed39a83982379"/>
+    <mod modName="FS22_airHoseConnectSound" title="Air Hose Connect Sound" version="1.1.0.0" required="false" fileHash="8defbbc130562ae8c81767bee7e1264f"/>
+    <mod modName="FS22_lizard_rumblerVan_crossplay" title="Lizard Rumbler Van" version="2.1.0.0" required="false" fileHash="4dc34a76350972786ed57cbc0baaaa76"/>
+</careerSavegame>

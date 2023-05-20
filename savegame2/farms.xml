@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<farms>
+    <farm farmId="1" name="JZDobraS" color="1" loan="425000.000000" money="57484.664062">
+        <players>
+            <player uniqueUserId="VZxWk10pIQiubW1TYS0vBkkIL8DnfxZhp1Yvth+SPR8=" farmManager="true" lastNickname="CottonMonkey420" timeLastConnected="2023/05/16 18:48" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
+            <player uniqueUserId="2me72dF4BZb6b5ukjvqciD0WVPG89q9WmV00RpeHcLQ=" farmManager="true" lastNickname="MythicShoe46747" timeLastConnected="2023/05/11 19:25" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
+            <player uniqueUserId="r/3fFCAd32NZQh6tOJjMHqw6yn55rddIdp2gLrCZtWk=" farmManager="true" lastNickname="Gon Drande" timeLastConnected="2023/05/09 17:51" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
+            <player uniqueUserId="player" farmManager="true" lastNickname="MythicShoe46747" timeLastConnected="2023/05/09 15:52" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
+        </players>
+        <handTools>
+            <handTool filename="data/firstPerson/chainsaws/mcCulloch/mcCullochCS410.xml"/>
+        </handTools>
+        <statistics>
+            <traveledDistance>859.906982</traveledDistance>
+            <fuelUsage>5328.571289</fuelUsage>
+            <seedUsage>10314.605469</seedUsage>
+            <sprayUsage>20439.054688</sprayUsage>
+            <workedHectares>198.933258</workedHectares>
+            <cultivatedHectares>35.097225</cultivatedHectares>
+            <sownHectares>30.261326</sownHectares>
+            <sprayedHectares>39.464275</sprayedHectares>
+            <threshedHectares>102.275253</threshedHectares>
+            <plowedHectares>10.198751</plowedHectares>
+            <harvestedGrapes>0.000000</harvestedGrapes>
+            <harvestedOlives>0.000000</harvestedOlives>
+            <workedTime>1547.156738</workedTime>
+            <cultivatedTime>223.559174</cultivatedTime>
+            <sownTime>354.394196</sownTime>
+            <sprayedTime>442.560181</sprayedTime>
+            <threshedTime>1090.740112</threshedTime>
+            <plowedTime>192.077194</plowedTime>
+            <baleCount>586</baleCount>
+            <breedCowsCount>0</breedCowsCount>
+            <breedSheepCount>26</breedSheepCount>
+            <breedPigsCount>0</breedPigsCount>
+            <breedChickenCount>4</breedChickenCount>
+            <breedHorsesCount>0</breedHorsesCount>
+            <fieldJobMissionCount>23</fieldJobMissionCount>
+            <fieldJobMissionByNPC>24514</fieldJobMissionByNPC>
+            <transportMissionCount>0</transportMissionCount>
+            <revenue>0.000000</revenue>
+            <expenses>1510.416504</expenses>
+            <playTime>2306.458740</playTime>
+            <plantedTreeCount>20</plantedTreeCount>
+            <cutTreeCount>22</cutTreeCount>
+            <woodTonsSold>0.000000</woodTonsSold>
+            <treeTypesCut>000000</treeTypesCut>
+            <petDogCount>5</petDogCount>
+            <repairVehicleCount>1</repairVehicleCount>
+            <repaintVehicleCount>0</repaintVehicleCount>
+            <horseJumpCount>0</horseJumpCount>
+            <soldCottonBales>0</soldCottonBales>
+            <wrappedBales>0</wrappedBales>
+            <tractorDistance>837.605896</tractorDistance>
+            <carDistance>0.000000</carDistance>
+            <truckDistance>22.301157</truckDistance>
+            <horseDistance>0.000000</horseDistance>
+        </statistics>
+        <finances>
+            <stats day="0">
+                <newVehiclesCost>0.000000</newVehiclesCost>
+                <soldVehicles>0.000000</soldVehicles>
+                <newAnimalsCost>-9930.000000</newAnimalsCost>
+                <soldAnimals>0.000000</soldAnimals>
+                <constructionCost>-83423.000000</constructionCost>
+                <soldBuildings>0.000000</soldBuildings>
+                <fieldPurchase>0.000000</fieldPurchase>
+                <fieldSelling>0.000000</fieldSelling>
+                <vehicleRunningCost>-0.008523</vehicleRunningCost>
+                <vehicleLeasingCost>-1377.000000</vehicleLeasingCost>
+                <propertyMaintenance>0.000000</propertyMaintenance>
+                <propertyIncome>0.000000</propertyIncome>
+                <productionCosts>-47.118965</productionCosts>
+                <soldWood>0.000000</soldWood>
+                <soldBales>0.000000</soldBales>
+                <soldWool>32510.164062</soldWool>
+                <soldMilk>0.000000</soldMilk>
+                <soldProducts>47899.078125</soldProducts>
+                <purchaseFuel>-585.367004</purchaseFuel>
+                <purchaseSeeds>0.000000</purchaseSeeds>
+                <purchaseFertilizer>0.000000</purchaseFertilizer>
+                <purchaseSaplings>0.000000</purchaseSaplings>
+                <purchaseWater>-37.916668</purchaseWater>
+                <purchaseBales>0.000000</purchaseBales>
+                <purchasePallets>0.000000</purchasePallets>
+                <harvestIncome>0.000000</harvestIncome>
+                <incomeBga>0.000000</incomeBga>
+                <missionIncome>0.000000</missionIncome>
+                <wagePayment>-1253.988525</wagePayment>
+                <other>-1524.921753</other>
+                <loanInterest>0.000000</loanInterest>
+            </stats>
+            <stats day="1">
+                <newVehiclesCost>0.000000</newVehiclesCost>
+                <soldVehicles>0.000000</soldVehicles>
+                <newAnimalsCost>0.000000</newAnimalsCost>
+                <soldAnimals>0.000000</soldAnimals>
+                <constructionCost>0.000000</constructionCost>
+                <soldBuildings>0.000000</soldBuildings>
+                <fieldPurchase>0.000000</fieldPurchase>
+                <fieldSelling>0.000000</fieldSelling>
+                <vehicleRunningCost>0.000000</vehicleRunningCost>
+                <vehicleLeasingCost>0.000000</vehicleLeasingCost>
+                <propertyMaintenance>-584.159973</propertyMaintenance>
+                <propertyIncome>0.000000</propertyIncome>
+                <productionCosts>-151.055649</productionCosts>
+                <soldWood>0.000000</soldWood>
+                <soldBales>0.000000</soldBales>
+                <soldWool>0.000000</soldWool>
+                <soldMilk>0.000000</soldMilk>
+                <soldProducts>21.095146</soldProducts>
+                <purchaseFuel>0.000000</purchaseFuel>
+                <purchaseSeeds>0.000000</purchaseSeeds>
+                <purchaseFertilizer>0.000000</purchaseFertilizer>
+                <purchaseSaplings>0.000000</purchaseSaplings>
+                <purchaseWater>-101.919998</purchaseWater>
+                <purchaseBales>0.000000</purchaseBales>
+                <purchasePallets>0.000000</purchasePallets>
+                <harvestIncome>0.000000</harvestIncome>
+                <incomeBga>0.000000</incomeBga>
+                <missionIncome>0.000000</missionIncome>
+                <wagePayment>0.000000</wagePayment>
+                <other>0.000000</other>
+                <loanInterest>-1416.000000</loanInterest>
+            </stats>
+            <stats day="2">
+                <newVehiclesCost>0.000000</newVehiclesCost>
+                <soldVehicles>0.000000</soldVehicles>
+                <newAnimalsCost>0.000000</newAnimalsCost>
+                <soldAnimals>0.000000</soldAnimals>
+                <constructionCost>0.000000</constructionCost>
+                <soldBuildings>0.000000</soldBuildings>
+                <fieldPurchase>0.000000</fieldPurchase>
+                <fieldSelling>0.000000</fieldSelling>
+                <vehicleRunningCost>0.000000</vehicleRunningCost>
+                <vehicleLeasingCost>0.000000</vehicleLeasingCost>
+                <propertyMaintenance>-586.179993</propertyMaintenance>
+                <propertyIncome>0.000000</propertyIncome>
+                <productionCosts>-142.805542</productionCosts>
+                <soldWood>0.000000</soldWood>
+                <soldBales>0.000000</soldBales>
+                <soldWool>0.000000</soldWool>
+                <soldMilk>0.000000</soldMilk>
+                <soldProducts>15.102564</soldProducts>
+                <purchaseFuel>0.000000</purchaseFuel>
+                <purchaseSeeds>0.000000</purchaseSeeds>
+                <purchaseFertilizer>0.000000</purchaseFertilizer>
+                <purchaseSaplings>0.000000</purchaseSaplings>
+                <purchaseWater>-111.279999</purchaseWater>
+                <purchaseBales>0.000000</purchaseBales>
+                <purchasePallets>0.000000</purchasePallets>
+                <harvestIncome>0.000000</harvestIncome>
+                <incomeBga>0.000000</incomeBga>
+                <missionIncome>0.000000</missionIncome>
+                <wagePayment>0.000000</wagePayment>
+                <other>0.000000</other>
+                <loanInterest>-1416.000000</loanInterest>
+            </stats>
+            <stats day="3">
+                <newVehiclesCost>0.000000</newVehiclesCost>
+                <soldVehicles>0.000000</soldVehicles>
+                <newAnimalsCost>0.000000</newAnimalsCost>
+                <soldAnimals>0.000000</soldAnimals>
+                <constructionCost>0.000000</constructionCost>
+                <soldBuildings>0.000000</soldBuildings>
+                <fieldPurchase>0.000000</fieldPurchase>
+                <fieldSelling>0.000000</fieldSelling>
+                <vehicleRunningCost>0.000000</vehicleRunningCost>
+                <vehicleLeasingCost>0.000000</vehicleLeasingCost>
+                <propertyMaintenance>-588.200012</propertyMaintenance>
+                <propertyIncome>0.000000</propertyIncome>
+                <productionCosts>-146.632263</productionCosts>
+                <soldWood>0.000000</soldWood>
+                <soldBales>0.000000</soldBales>
+                <soldWool>0.000000</soldWool>
+                <soldMilk>0.000000</soldMilk>
+                <soldProducts>12.057450</soldProducts>
+                <purchaseFuel>0.000000</purchaseFuel>
+                <purchaseSeeds>0.000000</purchaseSeeds>
+                <purchaseFertilizer>0.000000</purchaseFertilizer>
+                <purchaseSaplings>0.000000</purchaseSaplings>
+                <purchaseWater>-120.639999</purchaseWater>
+                <purchaseBales>0.000000</purchaseBales>
+                <purchasePallets>0.000000</purchasePallets>
+                <harvestIncome>0.000000</harvestIncome>
+                <incomeBga>0.000000</incomeBga>
+                <missionIncome>0.000000</missionIncome>
+                <wagePayment>0.000000</wagePayment>
+                <other>0.000000</other>
+                <loanInterest>-1416.000000</loanInterest>
+            </stats>
+            <stats day="4">
+                <newVehiclesCost>0.000000</newVehiclesCost>
+                <soldVehicles>0.000000</soldVehicles>
+                <newAnimalsCost>0.000000</newAnimalsCost>
+                <soldAnimals>0.000000</soldAnimals>
+                <constructionCost>0.000000</constructionCost>
+                <soldBuildings>0.000000</soldBuildings>
+                <fieldPurchase>0.000000</fieldPurchase>
+                <fieldSelling>0.000000</fieldSelling>
+                <vehicleRunningCost>0.000000</vehicleRunningCost>
+                <vehicleLeasingCost>0.000000</vehicleLeasingCost>
+                <propertyMaintenance>-590.219971</propertyMaintenance>
+                <propertyIncome>0.000000</propertyIncome>
+                <productionCosts>-144.195953</productionCosts>
+                <soldWood>0.000000</soldWood>
+                <soldBales>0.000000</soldBales>
+                <soldWool>0.000000</soldWool>
+                <soldMilk>0.000000</soldMilk>
+                <soldProducts>9.181849</soldProducts>
+                <purchaseFuel>0.000000</purchaseFuel>
+                <purchaseSeeds>0.000000</purchaseSeeds>
+                <purchaseFertilizer>0.000000</purchaseFertilizer>
+                <purchaseSaplings>0.000000</purchaseSaplings>
+                <purchaseWater>-130.000000</purchaseWater>
+                <purchaseBales>0.000000</purchaseBales>
+                <purchasePallets>0.000000</purchasePallets>
+                <harvestIncome>0.000000</harvestIncome>
+                <incomeBga>0.000000</incomeBga>
+                <missionIncome>0.000000</missionIncome>
+                <wagePayment>0.000000</wagePayment>
+                <other>0.000000</other>
+                <loanInterest>-1416.000000</loanInterest>
+            </stats>
+        </finances>
+        <npcJobs>
+            <npc index="1" count="3"/>
+            <npc index="2" count="0"/>
+            <npc index="3" count="0"/>
+            <npc index="4" count="0"/>
+            <npc index="5" count="0"/>
+            <npc index="6" count="1"/>
+            <npc index="7" count="0"/>
+            <npc index="8" count="0"/>
+            <npc index="9" count="0"/>
+            <npc index="10" count="1"/>
+            <npc index="11" count="0"/>
+            <npc index="12" count="0"/>
+            <npc index="13" count="0"/>
+            <npc index="14" count="4"/>
+        </npcJobs>
+    </farm>
+</farms>

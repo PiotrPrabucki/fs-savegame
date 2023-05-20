@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<treePlant>
+    <tree treeType="SPRUCE1" position="895.7701 118.1007 -870.6276" rotation="0.0000 127.7497 0.0000" growthState="1.000000" growthStateI="4" isGrowing="false" splitShapeFileId="5"/>
+    <tree treeType="SPRUCE1" position="905.8373 118.0158 -870.8666" rotation="0.0000 126.8574 0.0000" growthState="1.000000" growthStateI="4" isGrowing="false" splitShapeFileId="6"/>
+    <tree treeType="SPRUCE1" position="925.8687 118.0156 -870.4397" rotation="0.0000 43.3152 0.0000" growthState="1.000000" growthStateI="4" isGrowing="false" splitShapeFileId="8"/>
+    <tree treeType="SPRUCE1" position="924.6688 118.0986 -882.2651" rotation="0.0000 312.2974 0.0000" growthState="1.000000" growthStateI="4" isGrowing="false" splitShapeFileId="13"/>
+    <tree treeType="SPRUCE1" position="918.1268 118.0159 -889.8977" rotation="0.0000 73.6582 0.0000" growthState="1.000000" growthStateI="4" isGrowing="false" splitShapeFileId="14"/>
+    <tree treeType="SPRUCE1" position="910.0201 118.0158 -895.7966" rotation="0.0000 176.0838 0.0000" growthState="1.000000" growthStateI="4" isGrowing="false" splitShapeFileId="15"/>
+    <tree treeType="SPRUCE1" position="900.1307 117.9793 -897.5875" rotation="0.0000 333.4756 0.0000" growthState="1.000000" growthStateI="4" isGrowing="false" splitShapeFileId="16"/>
+</treePlant>
